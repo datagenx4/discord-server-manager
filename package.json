@@ -1,0 +1,13 @@
+{
+  "name": "server-manager-bot",
+  "version": "1.0.0",
+  "description": "Custom 24/7 Server Manager Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5"
+  }
+}
